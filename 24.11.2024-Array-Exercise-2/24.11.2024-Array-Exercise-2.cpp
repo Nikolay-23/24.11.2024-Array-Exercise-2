@@ -5,7 +5,7 @@
 int main()
 {
 	int N;
-	int A[20];
+	int A[100];
 	int sum = 0;
 
 	scanf_s("%d", &N);
